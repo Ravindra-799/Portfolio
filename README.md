@@ -1,7 +1,7 @@
 # Portfolio
-My website portfolio
+This is my personal portfolio
 
 
 
 ## Author
-* Subbarami Reddy Karapureddy
+* Venkata Ravindra Reddy Yarasu
